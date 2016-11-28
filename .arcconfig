@@ -1,5 +1,5 @@
 {
-    "project.name":"trst first",
-    "phabricator.uri":"http://192.168.200.68/",
+    "project.name":"first first",
+    "phabricator.uri":"http://phabricator.trs.org.cn",
     "repository.callsign":"T"
 }
