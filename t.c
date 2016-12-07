@@ -10,10 +10,6 @@ real last time
 test real real last time 
 reject
 test in windows
-16:58
-17:26
-17:28
-11/29 test in windows
 12/5 test in windows 1
 lihaoann
 lee
