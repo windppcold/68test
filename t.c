@@ -11,11 +11,8 @@ test real real last time
 reject
 test in windows
 12/5 test in windows 1
-lee
 io
-po
-please
-last time
+sdaas
 real last time
 morning
 night
