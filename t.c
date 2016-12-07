@@ -11,7 +11,6 @@ test real real last time
 reject
 test in windows
 12/5 test in windows 1
-lihaoann
 lee
 io
 po
