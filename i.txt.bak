@@ -22,5 +22,3 @@ do
 	ssh-add
 	}&
 done
-if 
-fi
